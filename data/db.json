@@ -1,0 +1,29 @@
+{
+    "blogs": [
+            {
+                "id":1,
+                "title":"RestFul API's",
+                "body":"Le but de ce projet est de réaliser une application web dynamique afin de présenter le contenu de manière plus rapide, attrayante, ergonomique pour représenter la communauté de GDG GRAND MASCARA, les taches, les membres d’équipe et même les évènements et les ateliers.",
+                "author":"Seddik"
+            },
+            {
+                "id":2,
+                "title":"A new conference",
+                "body":"Le but de ce projet est de réaliser une application web dynamique afin de présenter le contenu de manière plus rapide, attrayante, ergonomique pour représenter la communauté de GDG GRAND MASCARA, les taches, les membres d’équipe et même les évènements et les ateliers.",
+                "author":"Mario"
+            },
+            {
+                "id":3,
+                "title":"Enter a new market",
+                "body":"Le but de ce projet est de réaliser une application web dynamique afin de présenter le contenu de manière plus rapide, attrayante, ergonomique pour représenter la communauté de GDG GRAND MASCARA, les taches, les membres d’équipe et même les évènements et les ateliers.",
+                "author":"Podrick"
+            },
+            {
+                "id":4,
+                "title":"Google products 2021",
+                "body":"Le but de ce projet est de réaliser une application web dynamique afin de présenter le contenu de manière plus rapide, attrayante, ergonomique pour représenter la communauté de GDG GRAND MASCARA, les taches, les membres d’équipe et même les évènements et les ateliers.",
+                "author":"Nelson"
+            }
+        ]
+    
+}
